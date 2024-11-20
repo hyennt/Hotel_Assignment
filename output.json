@@ -1,0 +1,76 @@
+[
+    {
+        "id": "iJhz",
+        "destination_id": 5432,
+        "name": "Beach Villas Singapore",
+        "description": null,
+        "location": {
+            "latitude": 1.264751,
+            "longitude": 103.824006,
+            "address": "8 Sentosa Gateway, Beach Villas, 098269",
+            "country": "Singapore"
+        },
+        "amenities": {
+            "general": [
+                "business center",
+                "wifi",
+                "dry cleaning",
+                "breakfast"
+            ],
+            "room": []
+        },
+        "images": null,
+        "booking_conditions": null
+    },
+    {
+        "id": "SjyX",
+        "destination_id": 5432,
+        "name": "InterContinental Singapore Robertson Quay",
+        "description": null,
+        "location": {
+            "latitude": null,
+            "longitude": null,
+            "address": "1 Nanson Rd, Singapore 238909",
+            "country": "Singapore"
+        },
+        "amenities": {
+            "general": [
+                "wifi",
+                "business center",
+                "breakfast",
+                "dry cleaning"
+            ],
+            "room": [
+                "aircon",
+                "bathtub"
+            ]
+        },
+        "images": null,
+        "booking_conditions": null
+    },
+    {
+        "id": "f8c9",
+        "destination_id": 1122,
+        "name": "Hilton Shinjuku Tokyo",
+        "description": null,
+        "location": {
+            "latitude": "",
+            "longitude": "",
+            "address": "160-0023, SHINJUKU-KU, 6-6-2 NISHI-SHINJUKU, JAPAN",
+            "country": "Japan"
+        },
+        "amenities": {
+            "general": [
+                "wifi",
+                "business center",
+                "dry cleaning",
+                "breakfast"
+            ],
+            "room": [
+                "bathtub"
+            ]
+        },
+        "images": null,
+        "booking_conditions": null
+    }
+]44
